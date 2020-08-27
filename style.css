@@ -1,0 +1,187 @@
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+header {
+	line-height: 1rem;
+}
+
+h1 {
+font-family: 'Barlow Condensed', sans-serif;
+}
+
+h2 {
+font-family: 'Barlow Condensed', sans-serif;
+}
+
+h3 {
+font-family: 'Barlow Condensed', sans-serif;
+font-weight: 400;
+font-size: 1.45rem;
+}
+
+.text-green {
+	color: #29AB63;
+}
+
+p {
+	color: #333333;
+	font-size: 1.15rem;
+	font-weight: 300;
+}
+
+ul {
+	margin-bottom: 0;
+}
+
+.green-banner {
+	background-color: #29AB63;
+}
+
+.container {
+	position: relative;
+}
+
+.main-banner {
+	font-size: 5.5rem;
+	line-height: 4.8rem;
+	opacity: .90;
+	text-shadow: 1px 1px 5px #666666;
+}
+
+.text-block {
+position: absolute;
+bottom: 20px;
+right: 20px;
+color: white;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.blur-container {
+	box-shadow: 4px 4px 1px #D3D3D3;
+}
+
+.cover{
+object-fit: cover;
+}
+
+.centeredtext {
+left: 50%;
+position: absolute;
+top: 29%;
+transform: translate(-50%, -50%);
+}
+
+.navbar-custom{
+background-color: #29AB63; 
+}
+
+.nav-link{
+font-family: 'Barlow Condensed', sans-serif;
+color: white;
+text-decoration: none;
+font-size: 1.45rem;
+}
+
+.navbar-brand {
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: .75em;
+}
+
+a.navbar-brand:hover {
+	color: white;
+}
+
+.brand-text {
+	margin: 0;
+}
+
+.nav-text{
+color: white;
+text-decoration: none;
+}
+
+.footerliststyle{
+list-style: none;
+}
+
+.profileliststyle{
+list-style: none;
+}
+
+.nobulletlist{
+list-style: none;
+}
+
+/*.image-link{
+height: 272px;
+width: 272px;
+padding: 5px;
+border: solid 3px #29AB63;
+}*/
+
+.image-link{
+height: 75%;
+width: 75%;
+padding: 5px;
+border: solid 3px #29AB63;
+}
+
+
+
+.nav li a:hover {
+	color: white;
+	text-decoration: underline #157A6E solid;
+}
+
+/*.nav a:hover{
+	text-decoration: underline white solid;
+}*/
+
+li a p {
+	color: white;
+}
+
+li a p:hover {
+	color: white;
+}
+
+li a:hover {
+	text-decoration: underline #157A6E solid;
+}
+
+.link-servicios {
+	color: #333333;
+}
+
+.link-servicios:hover{
+color: #333333;
+text-decoration: underline #157A6E solid;
+}
+
+.text-justify {
+text-align: justify;
+}
+
+.webmasterblock{
+background-color: #157A6E;
+}
+
+footer {
+background-color: #29AB63;
+}
+
+.border-footer {
+	border-left: 1px solid #333333;
+}
+
+.brand-footer {
+	font-size: 3.5rem;
+	line-height: 1;
+}
+
+.nav-link {
+	padding: .5rem 0 .5rem 2rem;
+}
