@@ -22,7 +22,7 @@ if (isset($_POST['submit'])) {
     $mail->Host         = "mail.biaambiental.mx";
     $mail->SMTPAuth     = true;
     $mail->Username     = "bia.mailer@biaambiental.mx";
-    $mail->Password     = "b!@adm1N";
+    $mail->Password     = "********";
     $mail->SMTPSecure   = 'ssl';
     $mail->Port         = 465;
 //Headers
